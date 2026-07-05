@@ -158,7 +158,4 @@ export default function TripDetail() {
  * - <EmptyState message={string} />
  * - <ErrorBanner message={string} onDismiss?={() => void} />
  * - <Spinner />
- *
- * Nota: si tu hook se llama distinto (revisa "useTripPooling.ts" en tu árbol,
- * parece tener un typo respecto a "Polling"), ajusta el import de la línea 4.
  */

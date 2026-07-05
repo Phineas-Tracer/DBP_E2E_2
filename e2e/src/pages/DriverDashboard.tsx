@@ -130,7 +130,4 @@ export default function DriverDashboard() {
  * - <ErrorBanner message={string} onDismiss={() => void} />
  * - <Spinner />
  *
- * Nota: mientras el conductor tenga un viaje activo (IN_PROGRESS), el botón
- * "Aceptar" se deshabilita en toda la lista de pendientes, porque el backend
- * solo permite un viaje activo por conductor a la vez.
- */
+*/
