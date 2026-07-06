@@ -2,6 +2,10 @@
 
 Tarea del E2E - Frontend con TypeScript, React y Tailwind CSS
 
+# Integrantes
+- Antonio Guerrero
+- Ernesto Mendoza
+
 ## Estructura del Proyecto
 
 ```
